@@ -1,4 +1,0 @@
-title 0.6 New note
-
-Browser->Server: HTTP POST Data in JSON format
-Server-->Browser: Status 201 Created, Server stays on same page and shows content on the browser
